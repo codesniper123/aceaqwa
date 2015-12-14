@@ -1,0 +1,150 @@
+***********************
+test started at 28-10-2015 07:35:47
+sample type is: FIRST
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+22.052444, 0.0, 1.1386371E7,79466.0, 0.0
+***********************
+test started at 28-10-2015 10:08:02
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+22.079811, 0.0, 1.3945357E7,96695.0, 0.0
+***********************
+test started at 28-10-2015 10:09:11
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+38.13857, 0.0, 9.4498323E7,652276.0, 0.0
+***********************
+test started at 28-10-2015 10:30:34
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+47.273917, 0.0, 1.14967926E8,792433.0, 0.0
+***********************
+test started at 28-10-2015 10:31:34
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+55.277593, 0.0, 1.48841776E8,1023834.0, 0.0
+***********************
+test started at 28-10-2015 10:44:14
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+53.197027, 0.0, 1.38471339E8,952787.0, 0.0
+***********************
+test started at 28-10-2015 10:46:44
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+36.717046, 0.0, 8.7375466E7,602886.0, 0.0
+***********************
+test started at 29-10-2015 12:54:01
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+49.33345, 0.0, 1.07999289E8,744058.0, 0.0
+***********************
+test started at 29-10-2015 12:59:06
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+53.780968, 0.0, 1.19354927E8,819786.0, 0.0
+***********************
+test started at 29-10-2015 01:00:32
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+22.361479, 0.0, 1.7287999E7,119932.0, 0.0
+***********************
+test started at 29-10-2015 01:02:34
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+22.37247, 0.0, 1.5107771E7,104998.0, 0.0
+***********************
+test started at 29-10-2015 01:03:18
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+22.325836, 0.0, 1.5660633E7,109602.0, 0.0
+***********************
+test started at 02-11-2015 06:57:08
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+22.487361, 0.0, 1.5192753E7,105207.0, 0.0
+***********************
+test started at 22-11-2015 04:12:22
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+0.417645, 0.0, 0.0,0.0, 0.0
+***********************
+test started at 22-11-2015 04:13:28
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+50.115014, 0.0, 1.26007138E8,868741.0, 0.0
+***********************
+test started at 22-11-2015 09:35:41
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge  
+21.666063, 0.0, 1.2170937E7,85399.0, 0.0
+***********************
+test started at 22-11-2015 10:00:38
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+21.573443, 0.0, 1.2415743E7,86029.0, 0.0
+***********************
+test started at 22-11-2015 10:01:05
+sample type is: RANDOM
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+21.607903, 0.0, 1.4550436E7,101133.0, 0.0
+***********************
+test started at 22-11-2015 10:09:47
+sample type is: NONE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+42.196484, 0.0, 9.7194198E7,671372.0, 0.0
+***********************
+test started at 23-11-2015 05:40:49
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+13.551749, 0.0, 8606008.0,59030.0, 0.0
+***********************
+test started at 23-11-2015 05:43:10
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+11.367309, 0.0, 7393026.0,51136.0, 0.0
+***********************
+test started at 23-11-2015 05:46:13
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+17.82273, 0.0, 1.2413639E7,85847.0, 0.0
+***********************
+test started at 23-11-2015 05:47:11
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+18.9281, 0.0, 1.1848598E7,82279.0, 0.0
+***********************
+test started at 23-11-2015 05:49:48
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+18.85293, 0.0, 1.4090406E7,97655.0, 0.0
+***********************
+test started at 23-11-2015 05:51:09
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+12.538198, 0.0, 8913787.0,61696.0, 0.0
+***********************
+test started at 23-11-2015 06:03:40
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+14.648381, 0.0, 9677277.0,66793.0, 0.0
+***********************
+test started at 23-11-2015 06:07:34
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+16.80834, 0.0, 1.0247142E7,70830.0, 0.0
+***********************
+test started at 23-11-2015 06:10:58
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+22.126915, 0.0, 1.7867365E7,122600.0, 0.0
+***********************
+test started at 23-11-2015 06:11:59
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+23.089561, 0.0, 1.6567802E7,114290.0, 0.0
+***********************
+test started at 23-11-2015 06:25:15
+sample type is: ACE
+AQWA Elapsed Time, AQWA Mappers Time, AQWA HDFS Bytes Read, AQWA number of Records,time for split merge, Number of Partitions  
+23.287026, 0.0, 1.9942862E7,137351.0, 0.0

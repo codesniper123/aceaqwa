@@ -1,0 +1,16 @@
+<ivy-module version="1.0">
+	<info organisation="org.apache" module="aqwa"/>
+
+	<configurations>
+		<conf name="common" description="Common libraries to all versions"/>
+		<conf name="hadoop2" description="Hadoop 2.x libraries" />
+	</configurations>
+
+	<dependencies>
+		<dependency org="org.apache.hadoop" name="hadoop-common" rev="2.6.0" conf="hadoop2->default" />
+		<dependency org="org.apache.hadoop" name="hadoop-hdfs" rev="2.6.0" conf="hadoop2->default" />
+		<dependency org="org.apache.hadoop" name="hadoop-mapreduce-client-common" rev="2.6.0" conf="hadoop2->default" />
+		<dependency org="org.apache.hadoop" name="hadoop-mapreduce-client-core" rev="2.6.0" conf="hadoop2->default" />
+	</dependencies>
+
+</ivy-module>

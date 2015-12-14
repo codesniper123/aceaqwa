@@ -1,0 +1,26 @@
+digraph graphname{
+ratio="fill";margin=0;
+Node0 [shape=diamond label="Start"]
+Node0 -> Node1 [label="x 3-92"]
+Node1 [width=1 height=1 label ="(57 62) x 57"]
+Node1 -> Node2 [label="x 3-57"]
+Node2 [width=1 height=1 label ="(33 81) y 81"]
+Node2 -> Node3 [label="y 7-81"]
+Node3 [shape=rectangle width=0.5 height=0.5 label="0"]
+struct10 [shape=record label=" {x3-92|{}}|{x3-57|{}}|{y7-81|{ (57-62)}}"]
+Node3 -> struct10
+Node2 -> Node4 [label="y 82-95"]
+Node4 [shape=rectangle width=0.5 height=0.5 label="1"]
+struct13 [shape=record label=" {x3-92|{ (33-81)}}|{x3-57|{ (10-7)|(3-84)}}|{y82-95|{ (24-95)}}"]
+Node4 -> struct13
+Node1 -> Node5 [label="x 58-92"]
+Node5 [width=1 height=1 label ="(87 43) y 43"]
+Node5 -> Node6 [label="y 4-43"]
+Node6 [shape=rectangle width=0.5 height=0.5 label="2"]
+struct19 [shape=record label=" {x3-92|{}}|{x58-92|{}}|{y4-43|{}}"]
+Node6 -> struct19
+Node5 -> Node7 [label="y 44-70"]
+Node7 [shape=rectangle width=0.5 height=0.5 label="3"]
+struct22 [shape=record label=" {x3-92|{ (87-43)|(92-4)}}|{x58-92|{ (58-58)}}|{y44-70|{ (82-70)}}"]
+Node7 -> struct22
+}

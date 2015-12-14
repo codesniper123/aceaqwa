@@ -1,0 +1,6 @@
+X[] = {  3, 10, 33, 87, 92, 24, 82, 58, 57 }
+Y[] = { 84,  7, 81, 43,  4, 95, 70, 58, 62 }
+E[] =   0,  0,  0,  0,  0,  0,  0,  0,  0 
+Rect = [x(23,50) y(47,53)]
+Result: []
+there are 0 errors 0 false positive and 0 true negative 
