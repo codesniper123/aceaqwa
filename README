@@ -1,0 +1,18 @@
+Notes:
+
+- Enhanced AQWA with command line invocation.
+- Generate an executable JAR file called runaqwa.jar from source code
+- hadoop jar runaqwa.jar 
+    Displays all the commands available.
+- hadoop jar runaqwa.jar command=counts input=inputfile output=counts
+    Generates count file required for partitioning
+- hadoop jar runaqwa.jar partition input=inputfile output=indexfolder k=number_partitions counts=countfile
+    This generates the partitions using the count file generated before.
+    It creates "k" partitions.
+- hadoop command=msample input=inputfile count=countsfile numfile=partitions sample=[FIRST|RANDOM|ACE] partiton=[True/False]
+    This runs the AQWA experiments with ACE Tree or RANDOM.
+    It can re-use partitions that have been generated before
+    The query results are stored in a Hadoop folder called temp_query_results.
+    
+
+
